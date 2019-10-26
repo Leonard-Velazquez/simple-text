@@ -1,1 +1,2 @@
 # simple-text
+The purpose of this is to have a json file containing fish names and attributes. A javascript file will then allow the user to fish from a pond and see if they catch anything. they have 3 attempts to maximize the catch amount.
